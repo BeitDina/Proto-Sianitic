@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <!-- ============================================================= -->
+    <!-- Proto-Sianitic Font                                                  -->
+    <!-- ============================================================= -->
+<metadata id="metadata41">
+<Work about="Proto-Sianitic">
+<type resource="http://purl.org/dc/dcmitype/StillImage" />
+<title>Proto-Sianitic</title>
+<license resource="http://beitdina.net/" />
+<language>chinese</language>
+<publisher><Agent><title>beitdina.net</title></Agent></publisher>
+</Work>
+Created with FontForge 2.0 : Proto-Sianitic : 14-5-2021 by Florin Ciprian Bodin (C) Copyright 2021-2022 International Institute of Biblical Archaeology and Linguistic Reasearch "Beit Dina" (www.beitdina.net); 
+</metadata>
+<defs>
+<font id="Proto-Sianitic" horiz-adv-x="0">
+<font-face 
+    font-family="Proto-Sianitic"
+    font-weight="512"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 11 6 4 3 5 4 4 2 4"
+    ascent="800"
+    descent="-125"
+    x-height="512"
+    cap-height="512"
+    bbox="30 -450 1866 971"
+    underline-thickness="51"
+    underline-position="-128"
+    unicode-range="U+0020-10918"
+  />
+ 
+ <missing-glyph  />
+</font>
+</defs></svg>
