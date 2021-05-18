@@ -95,6 +95,12 @@ body {
 .icon-HePhoenician:before {
 	content: "\10904";
 }
+.icon-Wav:before {
+	content: "\5d5";
+}
+.icon-WauPhoenician-x10905:before {
+	content: "\10905";
+}
 .icon-TauPhoenician-x10915:before {
 	content: "\5ea";
 }
