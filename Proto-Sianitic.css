@@ -113,6 +113,12 @@ body {
 .icon-HetPhoenician-x10907:before {
 	content: "\10907";
 }
+.icon-Tet:before {
+	content: "\5d8";
+}
+.icon-TetPhoenician-x10908:before {
+	content: "\10908";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
