@@ -103,7 +103,7 @@ Created with FontForge 2.0 : Proto-Sianitic : 20-5-2021 by Florin Ciprian Bodin 
 
 </font>
 </defs>
-	<FitText compressor={0.5} minFontSize={24} maxFontSize={96}>
+	<FitText compressor='{0.5}' minFontSize='{24}' maxFontSize='{96}'>
 	  𐤀𐤁𐤂𐤃𐤄𐤅𐤆𐤇𐤈𐤉𐤊𐤋𐤌𐤍𐤎𐤏𐤐𐤑𐤒𐤓𐤔𐤕𐤖𐤗𐤘𐤙𐤚𐤛𐤜𐤝𐤞𐤟
 	</FitText>
   <text x='512' y='22' font-family='Proto-Sianitic' font-size='24'>𐤀𐤁𐤂𐤃𐤄𐤅𐤆𐤇𐤈𐤉𐤊𐤋𐤌𐤍𐤎𐤏𐤐𐤑𐤒𐤓𐤔𐤕𐤖𐤗𐤘𐤙𐤚𐤛𐤜𐤝𐤞𐤟</text>
