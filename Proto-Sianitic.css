@@ -119,6 +119,12 @@ body {
 .icon-TetPhoenician-x10908:before {
 	content: "\10908";
 }
+.icon-Yod:before {
+	content: "\5d9";
+}
+.icon-YodPhoenician-x10909:before {
+	content: "\10909";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
