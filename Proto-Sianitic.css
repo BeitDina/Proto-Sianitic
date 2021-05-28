@@ -125,6 +125,15 @@ body {
 .icon-YodPhoenician-x10909:before {
 	content: "\10909";
 }
+.icon-FinalKaf:before {
+	content: "\5da";
+}
+.icon-Kaf:before {
+	content: "\5db";
+}
+.icon-KafPhoenician-x1090a:before {
+	content: "\1090a";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
