@@ -17,11 +17,11 @@
    enable-background="new 0 0 512 512"
    xml:space="preserve"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="zaiphoenician-x10906.svg"><title
+   sodipodi:docname="lamdphoenician-x1090b.svg"><title
    id="title3743">Sinai 357</title><metadata
    id="metadata72"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title></dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher><cc:license
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title /></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher><cc:license
          rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
        rdf:about="http://scripts.sil.org/OFL"><cc:permits
          rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
@@ -47,8 +47,8 @@
    id="namedview68"
    showgrid="false"
    inkscape:zoom="0.25488281"
-   inkscape:cx="432.56593"
-   inkscape:cy="100.81901"
+   inkscape:cx="-162.06835"
+   inkscape:cy="936.3811"
    inkscape:window-x="23"
    inkscape:window-y="23"
    inkscape:window-maximized="0"
@@ -306,9 +306,9 @@
    id="line64"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 	</g>
-	
-
-<path
-   id="path6634"
-   d="M 185.70815,840.74637 490.92524,365.24934 q 25.74356,1.12925 42.15558,14.62579 10.02965,8.24798 24.68576,35.33144 l -307.32204,478.7763 q -27.6384,3.993 -42.01679,-6.161 -13.88678,-13.0901 -22.7196,-47.0755 z M 56.377741,721.02967 355.28002,255.37057 q 29.25182,-4.33635 43.38445,7.28574 14.13265,11.62212 17.28466,39.26567 L 112.13528,775.23287 q -31.214349,-5.6282 -41.945549,-12.783 -12.97505,-12.3403 -13.81199,-41.4202 z"
-   inkscape:connector-curvature="0" /></svg>
+	<path
+   style="fill:#030400;fill-opacity:1;stroke:#020004;stroke-width:11.64859295;stroke-opacity:1"
+   id="path4594"
+   d="M 239.95564,194.74266 C 352.5933,245.71574 349.47432,316.78814 328.48924,416.53717 306.8717,498.79901 260.8118,570.57345 220.60785,633.27395 166.09621,718.09927 93.342231,820.64253 96.946573,845.39576 c 10.323817,33.12082 35.820347,53.58317 77.333467,52.43835 23.55931,-12.13894 43.84844,-31.51303 54.49569,-54.14136 4.52107,-27.6466 12.19754,-54.1838 21.96724,-79.91076 C 291.7897,655.6916 369.78504,561.90279 405.94216,460.21541 424.21489,399.55481 430.39771,336.04734 417.81584,278.70266 405.95907,224.66313 377.43841,176.09635 326.66776,140.54216 303.25773,125.12395 282.57697,113.45054 259.07197,104.983 216.64143,92.066432 179.03301,91.566972 145.00074,103.34571 c -19.56032,6.77006 -37.9393,17.59606 -55.373369,32.4519 -26.095177,28.97515 -43.473448,69.63326 -46.255505,108.60035 -2.555385,35.79382 7.204977,70.16075 33.838308,92.73478 28.238866,17.75986 62.589076,29.93569 95.695136,33.52829 31.44636,3.41251 61.76994,-0.91865 84.66683,-15.56517 10.64629,-7.23611 18.28372,-15.87068 20.77656,-26.52683 -0.29691,-15.84414 -16.14085,-31.14894 -35.72962,-34.61586 -13.2733,-1.89577 -26.03772,-1.37192 -38.54385,0.43104 -14.33628,1.7891 -29.65415,0.63983 -42.45197,-4.18123 -16.7707,-6.31853 -29.2136,-18.94454 -29.44797,-39.5327 0.0275,-18.94454 8.68103,-38.01798 28.04257,-52.63581 1.81612,-2.42273 18.12702,-11.12423 37.58781,-11.69268 16.77977,-0.4903 36.71233,6.85424 42.14997,8.39805 z"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccscsccscscsccccsccscc" /></svg>
