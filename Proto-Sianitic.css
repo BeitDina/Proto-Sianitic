@@ -73,6 +73,15 @@
 .icon-LamdPhoenician:before {
 	content: "\1090b";
 }
+.icon-FinalMem:before {
+	content: "\5dd";
+}
+.icon-Mem:before {
+	content: "\5de";
+}
+.icon-MemPhoenician:before {
+	content: "\1090c";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
