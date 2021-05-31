@@ -82,6 +82,15 @@
 .icon-MemPhoenician:before {
 	content: "\1090c";
 }
+.icon-FinalNun:before {
+	content: "\5df";
+}
+.icon-Nun:before {
+	content: "\5e0";
+}
+.icon-NunPhoenician:before {
+	content: "\1090d";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
