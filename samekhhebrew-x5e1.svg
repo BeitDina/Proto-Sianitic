@@ -17,7 +17,7 @@
    enable-background="new 0 0 512 512"
    xml:space="preserve"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="zayinhebrew-x5d6.svg"><title
+   sodipodi:docname="samekhhebrew-x5e1.svg"><title
    id="title3743">Sinai 357</title><metadata
    id="metadata72"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -35,9 +35,9 @@
    inkscape:window-height="814"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="0.36045873"
-   inkscape:cx="1.1499365"
-   inkscape:cy="242.04266"
+   inkscape:zoom="0.21648644"
+   inkscape:cx="-854.5173"
+   inkscape:cy="31.936004"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -297,8 +297,5 @@
 	</g>
 	
 
-<path
-   id="path6634"
-   d="M 261.10851,782.77053 523.74712,419.49172 q 19.67534,1.25311 31.45141,11.93431 7.1962,6.52776 16.80972,27.69138 L 307.55846,824.90153 q -21.43626,2.6811 -31.85327,-5.3848 -9.86415,-10.3294 -14.59763,-36.746 z M 169.11348,688.26663 426.31825,332.5039 q 22.69409,-2.9225 32.83455,6.27518 10.14086,9.1976 10.89768,30.62519 L 208.61953,731.01303 q -23.60104,-4.8135 -31.401,-10.5058 -9.20958,-9.736 -8.10521,-32.2406 z"
-   inkscape:connector-curvature="0" />
+
 </svg>
