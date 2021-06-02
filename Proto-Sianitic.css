@@ -91,9 +91,33 @@
 .icon-NunPhoenician:before {
 	content: "\1090d";
 }
+.icon-Samekh:before {
+	content: "\5e1";
+}
+.icon-SemkPhoenician:before {
+	content: "\1090e";
+}
+.icon-Ayin:before {
+	content: "\5e2";
+}
+.icon-AyinPhoenician:before {
+	content: "\1090f";
+}
+.icon-FinalTzadi:before {
+	content: "\5e5";
+}
+.icon-Tzadi:before {
+	content: "\5e6";
+}
+.icon-TsadePhoenician:before {
+	content: "\10911";
+}
 .icon-Tav:before {
 	content: "\5ea";
 }
 .icon-TauPhoenician-x10915:before {
 	content: "\10915";
+}
+.icon-Separator:before {
+	content: "\1091f";
 }
