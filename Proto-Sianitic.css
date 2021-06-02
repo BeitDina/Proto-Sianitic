@@ -103,9 +103,6 @@
 .icon-AyinPhoenician:before {
 	content: "\1090f";
 }
-.icon-Separator:before {
-	content: "\1091f";
-}
 .icon-FinalTzadi:before {
 	content: "\5e5";
 }
@@ -120,4 +117,7 @@
 }
 .icon-TauPhoenician-x10915:before {
 	content: "\10915";
+}
+.icon-Separator:before {
+	content: "\1091f";
 }
