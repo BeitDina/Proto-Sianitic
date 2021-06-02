@@ -1,6 +1,6 @@
 # Proto-Sianitic
 
-# Proto-Sianitic Font Version 0.1 Alpha
+# Proto-Sianitic Font Version 0.3 Alpha
   
 # This font contain glyphs of ideograms and pictograms for realizing the ancient sianitic and cananite alphabets for the comparation tables.
  
