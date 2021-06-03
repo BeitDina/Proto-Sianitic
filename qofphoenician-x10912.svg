@@ -17,11 +17,11 @@
    enable-background="new 0 0 512 512"
    xml:space="preserve"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="zaiphoenician-x10906.svg"><title
+   sodipodi:docname="qofphoenician-x10912.svg"><title
    id="title3743">Sinai 357</title><metadata
    id="metadata72"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title></dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher><cc:license
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title /></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher><cc:license
          rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
        rdf:about="http://scripts.sil.org/OFL"><cc:permits
          rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
@@ -46,9 +46,9 @@
    inkscape:window-height="710"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="0.25488281"
-   inkscape:cx="432.56593"
-   inkscape:cy="100.81901"
+   inkscape:zoom="0.36045873"
+   inkscape:cx="194.06963"
+   inkscape:cy="525.82545"
    inkscape:window-x="23"
    inkscape:window-y="23"
    inkscape:window-maximized="0"
@@ -309,6 +309,8 @@
 	
 
 <path
-   id="path6634"
-   d="M 185.70815,840.74637 490.92524,365.24934 q 25.74356,1.12925 42.15558,14.62579 10.02965,8.24798 24.68576,35.33144 l -307.32204,478.7763 q -27.6384,3.993 -42.01679,-6.161 -13.88678,-13.0901 -22.7196,-47.0755 z M 56.377741,721.02967 355.28002,255.37057 q 29.25182,-4.33635 43.38445,7.28574 14.13265,11.62212 17.28466,39.26567 L 112.13528,775.23287 q -31.214349,-5.6282 -41.945549,-12.783 -12.97505,-12.3403 -13.81199,-41.4202 z"
-   inkscape:connector-curvature="0" /></svg>
+   inkscape:connector-curvature="0"
+   id="path4224"
+   d="m 188.79229,310.02673 c 5.56055,15.81967 14.72864,30.34304 21.75812,41.908 2.28944,3.70446 4.49231,6.75827 6.98034,9.21397 -35.53564,17.1644 -69.28335,44.99152 -100.71629,86.24275 -34.706932,45.54798 -52.186334,101.51339 -52.186334,166.9571 0,84.01102 23.688897,151.57424 71.132954,201.60163 47.3494,49.92759 108.05466,75.18602 180.82396,75.18602 58.07896,-1.00151 110.14867,-21.30641 154.56461,-49.01835 28.18823,-17.75348 52.28173,-45.39085 72.13014,-82.18861 19.91958,-36.92934 32.15306,-79.84682 36.89608,-128.99554 l 0,-0.36856 0,-0.36856 c 0,-63.12614 -18.79317,-127.39197 -61.04598,-186.31649 C 480.0985,389.44806 445.0959,362.99982 416.63655,358.93735 l 1.66198,-1.84279 c 0.0851,-0.0848 0.24784,-0.28269 0.33186,-0.36856 11.45776,-10.34989 20.72328,-22.7001 27.81104,-36.36187 10.05691,-20.66739 14.96468,-43.95835 15.64138,-67.64502 0.18935,-48.34777 -12.40197,-91.12329 -36.25903,-121.74017 -26.34445,-33.809038 -66.03797,-53.016188 -108.73881,-53.550128 -40.25535,5.22691 -75.6528,20.39566 -101.49575,46.665258 -25.75102,29.14277 -37.90006,62.44047 -40.14706,97.02696 -1.9029,29.2912 3.29632,59.50676 13.35013,88.9057 z M 318.91118,170.9724 c 18.21271,0 33.12271,6.96543 45.87079,21.37641 12.74799,14.411 18.94663,31.29756 18.94663,51.96678 0,16.75141 -6.49402,30.16708 -20.27622,41.64714 -13.87175,11.55466 -29.91093,17.32226 -49.19475,17.32226 -15.11348,0 -27.94114,-5.79258 -39.55524,-17.69082 -11.48115,-11.76211 -17.28464,-25.88416 -17.28464,-43.85849 0,-19.81249 5.95569,-36.15495 17.94943,-50.124 11.96747,-13.93861 26.12545,-20.63928 43.544,-20.63928 z m -4.65302,251.35705 c 0.22444,0.0165 0.44036,-0.0177 0.66479,0 53.39563,4.16718 97.38393,32.01058 127.97285,74.81743 27.40025,40.09818 42.72998,91.62455 37.56086,143.36934 -4.53655,40.53132 -20.12262,75.9327 -44.20881,101.72221 -28.17492,30.16728 -67.71899,47.24479 -114.34456,43.12137 -52.35801,-5.71824 -90.7682,-19.76867 -116.67135,-48.64974 -23.11855,-25.77626 -36.97169,-64.04561 -40.55243,-121.25583 4.02457,-43.55587 9.0263,-91.06453 28.58615,-125.30997 25.28238,-38.73032 65.63931,-65.36064 120.9925,-67.81481 z"
+   style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+   sodipodi:nodetypes="cccsssccsccsscccccsccscsssssssssccccscsccc" /></svg>
