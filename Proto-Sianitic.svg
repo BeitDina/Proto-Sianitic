@@ -9,7 +9,7 @@
 <Work about="Proto-Sianitic">
 <type resource="http://purl.org/dc/dcmitype/StillImage" />
 <title>Proto-Sianitic</title>
-<license resource="http://beitdina.net/" />
+<License resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling"></License>
 <language>chinese</language>
 <publisher>
 <Agent>
