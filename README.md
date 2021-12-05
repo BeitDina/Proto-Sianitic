@@ -3,8 +3,12 @@
 # Proto-Sianitic Font Version 0.3 Alpha
   
 # This font contain glyphs of ideograms and pictograms for realizing the ancient sianitic and cananite alphabets for the comparation tables.
- 
-The fonts are encoded acording  to unicode.org font subset maps.
+
+[![Sample](ScreenShouts/phn-LB-Proto-Sianitic.jpg)]
+
+[![Sample](ScreenShouts/map_034_05122021_150551.jpg)
+
+The fonts are encoded acording to unicode.org font subset maps.
    
 1. [To Install the Font on Computer]     
 2. [Install Font on Browser]   [Install Font on Computer](#install-font-on-computer) 
