@@ -4,9 +4,12 @@
   
 # This font contain glyphs of ideograms and pictograms for realizing the ancient sianitic and cananite alphabets for the comparation tables.
 
+Stones:
 
 ![Sample](Sinai-349-LowQ.png)
+![Sample](sinai-346-Lady-Sphinx.png)
 
+Samples:
 ![Sample](ScreenShouts/phn-LB-Proto-Sianitic.jpg)
 
 ![Sample](ScreenShouts/map_034_05122021_150551.jpg)
